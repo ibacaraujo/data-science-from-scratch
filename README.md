@@ -1,2 +1,2 @@
-# data-science-from-scratch
-Data Science from Scratch
+# Data Science from Scratch
+Code from training
